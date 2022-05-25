@@ -1,2 +1,2 @@
 /usr/bin/bash
-echo $(realpath $0)
+echo $(realpath $1)
