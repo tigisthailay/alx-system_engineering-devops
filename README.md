@@ -1,1 +1,1 @@
-my read me file
+my shell redirection projects
